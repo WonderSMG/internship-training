@@ -1,6 +1,7 @@
 
 import Section4 from "./components/Section4";
 import "./App.css";
+import Navbar from "./components/Navbar";
 
 function App() {
 
@@ -9,6 +10,8 @@ function App() {
     <>
       <P>Hello World!</P>
       <Section4/>
+    <Navbar />
+
     </>
   );
 }
