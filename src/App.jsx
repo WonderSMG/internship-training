@@ -1,3 +1,4 @@
+import Section4 from "./components/Section4";
 import "./App.css";
 import Navbar from "./components/Navbar";
 import Section3 from "./components/Section3";
@@ -12,6 +13,7 @@ function App() {
       <Section1 />
       <Section2 />
       <Section3 />
+      <Section4 />
       <Footer />
     </>
   );
