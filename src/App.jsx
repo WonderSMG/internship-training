@@ -1,11 +1,12 @@
 import "./App.css";
+import Section3 from "./components/Section3";
 
 function App() {
 
 
   return (
     <>
-      <P>Hello World!</P>
+     <Section3/>
     </>
   );
 }
