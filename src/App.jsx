@@ -1,5 +1,6 @@
 import "./App.css";
 import Navbar from "./components/Navbar";
+import Section3 from "./components/Section3";
 
 function App() {
 
@@ -7,7 +8,7 @@ function App() {
   return (
     <>
     <Navbar />
-
+     <Section3/>
     </>
   );
 }
