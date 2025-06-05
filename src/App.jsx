@@ -1,11 +1,10 @@
 import "./App.css";
+import Section2 from "./components/Section2";
 
 function App() {
-
-
   return (
     <>
-      <P>Hello World!</P>
+      <Section2 />
     </>
   );
 }
